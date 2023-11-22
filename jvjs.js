@@ -7,4 +7,4 @@
             loadingCircle.style.display = "none";
             var pageContent = document.getElementById("pageContent");
             pageContent.style.display = "block";
-        }, 10500); // 2000 ms = 2 secondes
+        }, 1500); // 2000 ms = 2 secondes
